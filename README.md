@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey amazing person! I'm Ujjanth! 👋
 
 <!--
 **ujjanth-arhan/ujjanth-arhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
