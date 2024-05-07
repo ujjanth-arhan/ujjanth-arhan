@@ -1,4 +1,4 @@
-## Hey amazing person! I'm Ujjanth! 👋
+# Hey amazing person! I'm Ujjanth! 👋
 
 <!--
 **ujjanth-arhan/ujjanth-arhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+LinkedIn Asset: ![LI-In-Bug](https://github.com/ujjanth-arhan/ujjanth-arhan/assets/33844003/f897087c-b085-483b-a98b-35ba5e341ae3)
+
 -->
+## Want to Connect? Reach out to me on 👇
+<div>
+  <a href="https://www.linkedin.com/in/ujjanth-arhan" alt="Ujjanth Arhan"><img src="https://github.com/ujjanth-arhan/ujjanth-arhan/assets/33844003/f897087c-b085-483b-a98b-35ba5e341ae3" width="35px"/></a>
+</div>
+
