@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a few projects (See the pinned projects!)
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on anything that's interesting
-- 🤔 I’m looking for help with securing a full time job as a Software Engineer, Backend Engineer or Full Stack Engineer
+<!-- - 🤔 I’m looking for help with securing a full time job as a Software Engineer, Backend Engineer or Full Stack Engineer -->
 - 💬 Ask me about tech!
 
 
